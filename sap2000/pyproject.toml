@@ -8,6 +8,7 @@ authors = ["mv1742 <mv1742@nyu.edu>"]
 python = "^3.5"
 jupyter = "^1.0.0"
 pythonnet = "^2.5.2"
+matplotlib = "*"
 
 [tool.poetry.dev-dependencies]
 
