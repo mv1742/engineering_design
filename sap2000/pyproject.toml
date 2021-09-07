@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "sap2000"
 version = "0.1.0"
-description = "sap200 python integration"
+description = "sap2000 python integration"
 authors = ["mv1742 <mv1742@nyu.edu>"]
 
 [tool.poetry.dependencies]
